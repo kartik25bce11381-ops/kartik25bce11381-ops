@@ -1,4 +1,14 @@
-## Hi there 👋
+# Hi, I'm Kartik 👋
+
+B.Tech CSE Student at VIT Bhopal
+
+## About Me
+- Learning Digital Literacy
+- Exploring GitHub and coding
+- Interested in technology and problem solving
+
+## Connect with me
+LinkedIn: www.linkedin.com/in/kartik-mathur-1695983a9
 
 <!--
 **kartik25bce11381-ops/kartik25bce11381-ops** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
